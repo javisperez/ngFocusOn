@@ -6,7 +6,7 @@ Focus on a field when the given condition is true.
 ### Bower
 You can use bower to install this directive by using:
 
-``bower install --save ng-focus-on``
+`bower install --save ng-focuson`
 
 ### Zip
 If you don't want to use bower, you can download a zip file from this repo
