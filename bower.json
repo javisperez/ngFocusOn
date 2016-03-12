@@ -1,0 +1,13 @@
+{
+    "name": "ng-focus-on",
+    "version": "1.0.0",
+    "main": "ngFocusOn.js",
+    "ignore": [
+        ".gitignore",
+        "bower.json",
+        "README.md"
+    ],
+    "dependencies": {
+        "angular": "^1.5.*",
+    }
+}
